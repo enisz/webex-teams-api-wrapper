@@ -1,0 +1,8 @@
+# Ignore built application
+dist
+
+# Ignore node modules
+node_modules
+
+# exclude .env
+.env

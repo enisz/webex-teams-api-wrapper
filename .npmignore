@@ -1,0 +1,14 @@
+# Ignore source files
+src
+
+# Ignore nodemon.json
+nodemon.json
+
+# Ignore tsconfig.json
+tsconfig.json
+
+# Ignore .gitignore
+.gitignore
+
+# Ignore .env
+.env

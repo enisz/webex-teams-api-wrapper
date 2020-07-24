@@ -1,0 +1,24 @@
+{
+  "name": "webex-teams-api-wrapper",
+  "version": "1.0.0",
+  "description": "Webex Teams API Wrapper written in TypeScript",
+  "main": "dist/webex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Enisz Abdalla",
+    "email": "enisz87@gmail.com",
+    "url": "https://github.com/enisz/webex-teams-api-wrapper"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.1"
+  },
+  "devDependencies": {
+    "@types/got": "^9.6.11",
+    "@types/node": "^14.0.25",
+    "ts-node": "^8.10.2"
+  }
+}
