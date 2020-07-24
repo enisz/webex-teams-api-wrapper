@@ -1,6 +1,6 @@
 {
   "name": "webex-teams-api-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webex Teams API Wrapper written in TypeScript",
   "main": "dist/webex.js",
   "scripts": {
