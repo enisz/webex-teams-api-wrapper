@@ -12,3 +12,6 @@ tsconfig.json
 
 # Ignore .env
 .env
+
+# Ignore readme
+readme.md
